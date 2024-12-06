@@ -10,7 +10,7 @@
           display: block;
         "
       >
-        学生成绩信息
+        学生学籍信息
       </span>
     </el-header>
     <!-- 数据表格 -->
