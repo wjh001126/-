@@ -17,7 +17,7 @@
             display: block;
           "
         >
-          学生成绩信息
+          学生学籍信息
         </span>
         <el-button type="primary" @click="showAddDialog = true">添加</el-button>
         <el-button type="danger" @click="showBatchDelete = !showBatchDelete"
