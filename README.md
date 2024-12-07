@@ -17,5 +17,5 @@
 >当然很多约束也没有添加就当小练习了
 
 ## 技术栈
-vue2 vue-router element-ui python fastapi
+>vue2 vue-router element-ui python fastapi
 
